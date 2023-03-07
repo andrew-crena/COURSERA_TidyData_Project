@@ -1,4 +1,4 @@
-VARIABLES USED:
+VARIABLES USED: (SEE RAW VERSION FOR BETTER LAYOUT)
 
 activities: 6 obs of 2 variables
 data_merged:10299 obs of 563 variables
